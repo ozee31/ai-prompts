@@ -20,3 +20,6 @@
 npx knip --production --strict
 2. Give the prompt to your AI agent with the Knip output
 3. Let the agent iterate through each item safely
+
+**Prompt**:
+https://github.com/ozee31/ai-prompts/blob/main/code-quality/knip/prompt.md
